@@ -13,8 +13,8 @@ Este projeto configura um ambiente virtual Python e instala as bibliotecas neces
 
 ## O que é o projeto?
 
-- A ideia inicial era um detector de libras, porém, o treinamento do modelo começou a ficar muito longo
-- e por isso decidimos fazer somente um Detector de Mãos.
+- A ideia inicial era um detector de libras, porém, o treinamento do modelo começou a ficar muito longo,
+e por isso decidimos fazer somente um Detector de Mãos.
 
 ## Como rodar?
 
