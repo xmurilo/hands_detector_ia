@@ -17,7 +17,6 @@ Este projeto configura um ambiente virtual Python e instala as bibliotecas neces
 e por isso decidimos fazer somente um Detector de Mãos.
 
 ## Como rodar?
-<!-- Escreva o site para baixar o python na versao 3.8 -->
 
 OBS: O projeto foi feito em Python 3.8, então é necessário ter o Python 3.8 instalado na máquina. Site para baixar o Python 3.8: [Python 3.8](https://www.python.org/downloads/release/python-380/)
 
