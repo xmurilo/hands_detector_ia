@@ -18,13 +18,13 @@ e por isso decidimos fazer somente um Detector de Mãos.
 
 ## Como rodar?
 
-1. Criar o ambiente virtual
+1. Criar o ambiente virtual na versão 3.8 do Python dentro da pasta do projeto
 
 ```python
 py -3.8 -m venv venv
 ```
 
-2. Ativar o ambiente virtual
+2. Ativar o ambiente virtual dentro da pasta do projeto
     ### Windows
     ```python
     .\venv\Scripts\activate
