@@ -29,14 +29,23 @@ Este projeto configura um ambiente virtual Python e instala as bibliotecas neces
 ```python
     .\env-visao\Scripts\activate
 ```
+3. Ativar o ambiente virtual
+    ### Windows
+    ```python
+        .\env-visao\Scripts\activate
+    ```
+    ### Linux / MacOS
+    ```python
+        source env-visao/bin/activate
+    ```    
 
-3. Instalar as Dependencias
+4. Instalar as Dependencias
 
 ```python
     pip install -r requirements.txt
 ```
 
-4. Rodar o Projeto
+5. Rodar o Projeto
 
 ```python
     python hands_detector.py
