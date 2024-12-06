@@ -25,11 +25,6 @@ e por isso decidimos fazer somente um Detector de Mãos.
 ```
 
 2. Ativar o ambiente virtual
-
-```python
-    .\env-visao\Scripts\activate
-```
-3. Ativar o ambiente virtual
     ### Windows
     ```python
         .\env-visao\Scripts\activate
@@ -39,13 +34,13 @@ e por isso decidimos fazer somente um Detector de Mãos.
         source env-visao/bin/activate
     ```    
 
-4. Instalar as Dependencias
+3. Instalar as Dependencias
 
 ```python
     pip install -r requirements.txt
 ```
 
-5. Rodar o Projeto
+4. Rodar o Projeto
 
 ```python
     python hands_detector.py
